@@ -7,4 +7,5 @@ some of my favorite articles saved in one place for revisiting/sharing
 * [Startup Playbook](https://playbook.samaltman.com/)
   - Sam Altman
 
-
+* [Four Key Product Principles from WeChat’s Creator ](https://a16z.com/2019/02/05/allen-zhang-wechat-product-principles/)
+..* Throughout China, Allen Zhang is known as the "father of WeChat". Zhang’s public persona has much the same cultural importance and weight as the American legacy of Steve Jobs. He is renowned in Chi...
