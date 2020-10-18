@@ -1,6 +1,8 @@
 # reading-list
 some of my favorite articles saved in one place for revisiting/sharing
 
+TODO - Working on building a CLI tool for init of this repo (for others) and quickly saving articles to said repo using [OClif](https://oclif.io/). eg, `bookmark {url}` and using OG tags to scrape the title, author, description, etc... allowing for manual input if they don't exist, eg., `bookmark {url} --author=clay-coffman --description=garbage puff piece about chipotle`
+
 ## Product
 * [Good Product Manager, Bad Product Manager](https://s3-eu-west-1.amazonaws.com/uploads-eu.hipchat.com/47780/705565/8wXMsUrlRDHukuc/Good%20Product%20Manager%2C%20Bad%20Product%20Manager%20-%20Ben%20Horowitz.pdf)
   - Ben Horowitz
